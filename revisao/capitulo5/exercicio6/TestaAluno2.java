@@ -1,4 +1,4 @@
-package revisao.capitulo5.exercicio6;
+package programacaoDesktop.revisao.capitulo5.exercicio6;
 
 public class TestaAluno2 {
 

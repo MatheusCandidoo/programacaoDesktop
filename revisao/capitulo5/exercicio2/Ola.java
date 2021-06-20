@@ -1,4 +1,4 @@
-package revisao.capitulo5.exercicio2;
+package programacaoDesktop.revisao.capitulo5.exercicio2;
 
 import java.util.Random;
 import javax.swing.JOptionPane;

@@ -1,4 +1,4 @@
-package revisao.capitulo5.exercicio3;
+package programacaoDesktop.revisao.capitulo5.exercicio3;
 
 public class Inteiro {
     private int valor;

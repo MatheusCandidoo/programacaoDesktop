@@ -1,6 +1,6 @@
-package revisao.capitulo5.exercicio5;
+package programacaoDesktop.revisao.capitulo5.exercicio5;
 
-import revisao.capitulo5.exercicio4.Inteiro;
+import programacaoDesktop.revisao.capitulo5.exercicio4.Inteiro;
 
 public class TestaInteiro {
 

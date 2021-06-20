@@ -1,4 +1,4 @@
-package revisao.capitulo3;
+package programacaoDesktop.revisao.capitulo3;
 
 public class Conversor5 {
 

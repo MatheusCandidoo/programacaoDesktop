@@ -1,4 +1,4 @@
-package revisao.capitulo5.exercicio1;
+package programacaoDesktop.revisao.capitulo5.exercicio1;
 
 public class Aluno {
 
